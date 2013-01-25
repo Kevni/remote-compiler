@@ -1,0 +1,13 @@
+{
+  "name": "remcomp-server",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "*"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
+
